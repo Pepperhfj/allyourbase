@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Windows98';
-    src: url(fonts/Windows\ Regular.ttf);
+    src: url(fonts/Windows\ Regular.ttf) format('truetype'); }
 }
 
 .WindowError {
