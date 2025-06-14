@@ -18,7 +18,7 @@
 .WindowBar {
     display: flex;
     column-gap: 200px;
-    background-image: linear-gradient(to right, #1111af, #0e79b2);
+    background-image: linear-gradient(to right, #1111af, #0e68b2);
     width: 300px;
     height: 30px;
 }
