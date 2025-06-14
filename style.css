@@ -98,6 +98,8 @@
     border: 1px dotted transparent;
     padding-left: 15px;
     padding-right: 15px;
+    outline: solid;
+    outline-width: 1px;
     border: outset;
     border-color: #e7e7e7;
     background-color: #d3d3d3;
