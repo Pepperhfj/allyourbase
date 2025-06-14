@@ -14,10 +14,11 @@
     width: 300px;
     height: 140px;
 }
+
 .WindowBar {
     display: flex;
     column-gap: 200px;
-    background-color: rgb(17, 17, 175);
+    background-image: linear-gradient(to right, #1111af, #0e79b2);
     width: 300px;
     height: 30px;
 }
