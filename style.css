@@ -64,22 +64,18 @@
 
 .WTF {
     color: black;
-    outline: solid;
-    outline-width: 1px;
     border: 1px dotted transparent;
-    border: outset;
-    border-color: #e7e7e7;
+    border: solid;
+    border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
 
 .WTF:hover {
     color: black;
-    outline: solid;
-    outline-width: 1px;
     border: 1px dotted black;
-    border: outset;
-    border-color: #e7e7e7;
+    border: solid;
+    border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
@@ -87,8 +83,8 @@
 .WTF:focus {
     color: black;
     border: 1px dotted black;
-    border: inset;
-    border-color: #e7e7e7;
+    border: solid;
+    border-color: #5a5a5a #ffffff #ffffff #5a5a5a;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
@@ -98,10 +94,8 @@
     border: 1px dotted transparent;
     padding-left: 15px;
     padding-right: 15px;
-    outline: solid;
-    outline-width: 1px;
-    border: outset;
-    border-color: #e7e7e7;
+    border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
+    background-color: #d3d3d3;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
@@ -111,10 +105,8 @@
     border: 1px dotted black;
     padding-left: 15px;
     padding-right: 15px;
-    outline: solid;
-    outline-width: 1px;
-    border: outset;
-    border-color: #e7e7e7;
+    border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
+    background-color: #d3d3d3;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
@@ -126,8 +118,8 @@
     padding-right: 15px;
     outline: solid;
     outline-width: 1px;
-    border: inset;
-    border-color: #e7e7e7;
+    border: solid;
+    border-color: #5a5a5a #ffffff #ffffff #5a5a5a;
     background-color: #d3d3d3;
     font-family: Windows98;
 }
