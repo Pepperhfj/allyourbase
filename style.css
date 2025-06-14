@@ -94,6 +94,7 @@
     border: 1px dotted transparent;
     padding-left: 15px;
     padding-right: 15px;
+    border: solid;
     border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
     background-color: #d3d3d3;
     background-color: #d3d3d3;
@@ -105,6 +106,7 @@
     border: 1px dotted black;
     padding-left: 15px;
     padding-right: 15px;
+    border: solid;
     border-color: #ffffff #5a5a5a #5a5a5a #ffffff;
     background-color: #d3d3d3;
     background-color: #d3d3d3;
@@ -116,8 +118,6 @@
     border: 1px dotted black;
     padding-left: 15px;
     padding-right: 15px;
-    outline: solid;
-    outline-width: 1px;
     border: solid;
     border-color: #5a5a5a #ffffff #ffffff #5a5a5a;
     background-color: #d3d3d3;
